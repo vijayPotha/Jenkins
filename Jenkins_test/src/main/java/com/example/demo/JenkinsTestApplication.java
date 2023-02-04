@@ -8,7 +8,9 @@ public class JenkinsTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestApplication.class, args);
-		System.out.println("hellow world");
+		System.out.println("*****************");
+		System.out.println("hellow world project is upload Sucess");
+		System.out.println("******************");
 	}
 
 }
